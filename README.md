@@ -4,7 +4,6 @@
 Repositório da turma de ENE140 - Programação para Engenharia - 2025/3
 
 # Grupo 6 – Projeto Bot Multimodal no Telegram com Processamento de Imagem e Áudio
-----
 
 Este relatório descreve o desenvolvimento do bot do Grupo 6, um sistema computacional implementado em Python que integra um bot do Telegram com módulos de processamento de imagem e processamento de áudio utilizando diversas bibliotecas externas. O projeto foi desenvolvido como atividade acadêmica, com foco na aplicação prática de conceitos de programação, especialmente POO, organização modular do código e integração com bibliotecas externas.
 
